@@ -21,7 +21,7 @@ int main()
       maxLen = max(maxLen, a[i] - a[i - 1]);
     }
     maxLen = max(maxLen, 2 * (x - a[n - 1]));
-    cout << maxLen;
+    cout << maxLen << endl;
     t--;
   }
 }
