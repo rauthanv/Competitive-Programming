@@ -14,11 +14,11 @@ int main()
 
     if (n % 3 != 0)
     {
-      cout << "FIRST" << "\n";
+      cout << "First" << "\n";
     }
     else
     {
-      cout << "SECOND" << "\n";
+      cout << "Second" << "\n";
     }
     t--;
   }
